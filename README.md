@@ -2,7 +2,7 @@
 <h3 align="center">Senior Computer Science Student at Ain Shams University</h3>
 
 ## About Me
-### I am a Flutter developer and UI/UX designer, and I have some experience in software testing, cyber security, and data science.
+### I am a Flutter Developer and UI/UX Designer, and I have some experience in Software Testing, Cyber Security, and Data Science.
 
 ## Skills
 - ![Dart Language](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
