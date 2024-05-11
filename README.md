@@ -7,13 +7,34 @@
 ### Bachelor of Computer Sciences with a passion for developing high-quality mobile applications using Flutter. Proficient in building backend APIs with Node.js to support app functionality. Experienced in UI/UX design, ensuring seamless user experiences. Committed to delivering innovative solutions that exceed client expectations. I possess additional expertise in Software Testing, Cybersecurity, and Data Science.
 
 ## Skills
-- ![Dart Language](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-- ![OOP](https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=oop&logoColor=white)  ![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=data%20structures&logoColor=white)  ![Algorithms](https://img.shields.io/badge/Algorithms-FF6C37?style=for-the-badge&logo=algorithms&logoColor=white) 
-- ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![R Language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-- ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C# Language](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![C++ Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- ![CI/CD](https://img.shields.io/badge/CI/CD-4B32C3?style=for-the-badge&logo=firebase&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Solid Principles](https://img.shields.io/badge/Solid_Principles-757575?style=for-the-badge)
+- ![Responsive and Adaptive Applications](https://img.shields.io/badge/Responsive_and_Adaptive_Applications-0095D5?style=for-the-badge)
+- ![Object-Oriented Programming (OOP)](https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=oop&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Authentication](https://img.shields.io/badge/Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Messaging](https://img.shields.io/badge/Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- ![MVVM Pattern](https://img.shields.io/badge/MVVM_Pattern-007ACC?style=for-the-badge)
+- ![Problem-Solving](https://img.shields.io/badge/Problem_Solving-808080?style=for-the-badge)
+- ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-0095D5?style=for-the-badge)
+- ![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-FF69B4?style=for-the-badge) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Development](https://img.shields.io/badge/Development-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- ![Local Database](https://img.shields.io/badge/Local_Database-696969?style=for-the-badge) ![Hive](https://img.shields.io/badge/Hive-339933?style=for-the-badge&logo=hive&logoColor=white) ![Sqflite](https://img.shields.io/badge/Sqflite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Shared preferences](https://img.shields.io/badge/Shared_preferences-3178C6?style=for-the-badge&logo=flutter&logoColor=white)
+- ![Google Maps Integration](https://img.shields.io/badge/Google_Maps_Integration-4285F4?style=for-the-badge&logo=google%20maps&logoColor=white)
+- ![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ![Agile Development](https://img.shields.io/badge/Agile_Development-0095D5?style=for-the-badge)
+- ![Clean Code](https://img.shields.io/badge/Clean_Code-757575?style=for-the-badge)
+- ![Leadership qualities](https://img.shields.io/badge/Leadership_Qualities-FFD700?style=for-the-badge)
+- ![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logo=rest&logoColor=white) ![HTTP](https://img.shields.io/badge/HTTP-00599C?style=for-the-badge&logo=http&logoColor=white) ![Dio](https://img.shields.io/badge/Dio-6200EE?style=for-the-badge&logo=dio&logoColor=white)
+- ![State Management](https://img.shields.io/badge/State_Management-008CDD?style=for-the-badge) ![Provider](https://img.shields.io/badge/Provider-787878?style=for-the-badge&logo=provider&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-4B32C3?style=for-the-badge&logo=bloc&logoColor=white) ![Cubit](https://img.shields.io/badge/Cubit-02569B?style=for-the-badge&logo=cubit&logoColor=white)
+- ![Flutter Testing](https://img.shields.io/badge/Flutter_Testing-4B32C3?style=for-the-badge) ![Unit Testing](https://img.shields.io/badge/Unit_Testing-239120?style=for-the-badge&logo=testinglibrary&logoColor=white) ![Integration Testing](https://img.shields.io/badge/Integration_Testing-808080?style=for-the-badge)
+- ![Data Structures](https://img.shields.io/badge/Data_Structures-007ACC?style=for-the-badge&logo=data%20structures&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-FF6C37?style=for-the-badge&logo=algorithms&logoColor=white)
+- ![Design Patterns](https://img.shields.io/badge/Design_Patterns-808080?style=for-the-badge)
+- ![Communication](https://img.shields.io/badge/Communication-4B32C3?style=for-the-badge) ![Strong](https://img.shields.io/badge/Strong-4B32C3?style=for-the-badge)
+
 
 
 ## Design Tools
