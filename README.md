@@ -2,7 +2,7 @@
 <h3 align="center">Bachelor of Computer Sciences Ain Shams University</h3>
 
 ## About Me
-### Bachelor of Computer Sciences with a fervor for crafting top-tier mobile applications through Flutter. Adept at constructing backend APIs with Node.js to bolster app operations. Skilled in UI/UX design for seamless user interaction. Committed to exceeding client expectations by delivering innovative solutions. As a Flutter Developer and UI/UX Designer, I possess additional expertise in Software Testing, Cybersecurity, and Data Science.
+### Bachelor of Computer Sciences with a passion for developing high-quality mobile applications using Flutter. Proficient in building backend APIs with Node.js to support app functionality. Experienced in UI/UX design, ensuring seamless user experiences. Committed to delivering innovative solutions that exceed client expectations. I possess additional expertise in Software Testing, Cybersecurity, and Data Science.
 
 ## Skills
 - ![Dart Language](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
