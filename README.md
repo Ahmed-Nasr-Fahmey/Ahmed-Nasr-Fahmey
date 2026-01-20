@@ -87,6 +87,8 @@ I focus on:
 - Multi-stop routing & dynamic pricing  
 - Social features (stories, reels, chat)  
 
+> **+ 10+ additional production mobile applications across Fintech, HR/ERP, E-commerce, and Super Apps.**
+
 ---
 
 ## 📫 Connect with Me
