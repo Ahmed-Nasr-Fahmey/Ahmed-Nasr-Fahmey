@@ -94,7 +94,7 @@ I focus on:
 ## 📫 Connect with Me
 
 [LinkedIn](https://linkedin.com/in/ahmed-nasr-fahmey) •  
-[GitHub](https://github.com/ahmednasr1237)
+[GitHub](https://github.com/Ahmed-Nasr-Fahmey)
 
 ---
 
