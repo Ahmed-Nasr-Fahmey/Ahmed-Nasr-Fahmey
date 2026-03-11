@@ -14,7 +14,6 @@
 
 ## 👨‍💻 About Me
 
-Senior Flutter Engineer with **3.5+ years** of experience building production-grade mobile applications across **Ride-Hailing, Fintech, HR/ERP, and E-commerce** domains for Saudi, Egyptian, and European markets.
 Senior Flutter Engineer with **3.5+ years** of experience delivering high-scale production mobile applications across **Ride-Sharing, Social Platforms, Fintech, HR/​ERP, and E-commerce** domains for **Saudi, Egyptian, and European markets**. Strong background in architecting scalable App solutions using Clean Architecture and Multi-Module design, leading technical squads, and owning the full app lifecycle from concept to App Store & Google Play release. 
 Proven expertise in **performance optimization, mobile security, automated CI/CD pipelines, and building maintainable, testable, and production-ready systems**.
 
